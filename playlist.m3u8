@@ -3,9 +3,7 @@
 http://185.32.44.154/azadazerbaycan/index.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/42eivD5.png",Xəzər TV
 http://185.32.44.154/xezertv/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="sts",СТС
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2024/index.m3u8
